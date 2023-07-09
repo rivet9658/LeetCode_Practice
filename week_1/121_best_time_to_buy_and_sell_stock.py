@@ -3,6 +3,7 @@ from typing import List
 
 
 class Solution:
+    # my first answer
     def maxProfit(self, prices: List[int]) -> int:
         earn = 0
         buy = prices[0]
